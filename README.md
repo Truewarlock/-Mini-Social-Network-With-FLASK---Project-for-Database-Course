@@ -4,6 +4,8 @@ This SOFTWARE PRODUCT is provided by me, Valentin 'Truewarlock' Marius "as is" a
 
 This project was made for "Databases" at Computer science & Engineering University(Year 3, Sem 1) as a mandatory project.
 
+First ever attempt at using Flask, decent enough I can say.
+
 
 Dependencies: 
  
